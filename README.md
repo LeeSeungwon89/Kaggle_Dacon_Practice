@@ -1,6 +1,6 @@
 # 연습 목록
 
-|연습문제|풀이 기간|플랫폼|
+|연습문제|풀이기간|플랫폼|
 |:-:|:-:|:-:|
 |[Bike Sharing Demand](https://www.kaggle.com/competitions/bike-sharing-demand)|22.11.~|Kaggle|
 |[Categorical Feature Encoding Challenge](https://www.kaggle.com/c/cat-in-the-dat)|22.11.~|Kaggle|
