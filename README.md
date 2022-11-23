@@ -1,5 +1,7 @@
 # 연습 목록
 
+쉬운 문제부터 차근차근 접근해 볼 계획입니다.
+
 |연습문제|풀이기간|플랫폼|
 |:-:|:-:|:-:|
 |[Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)|22.11.~|Kaggle|
