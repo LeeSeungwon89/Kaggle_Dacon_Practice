@@ -4,7 +4,7 @@
 
 |연습문제|풀이기간|플랫폼|
 |:-:|:-:|:-:|
-|[Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)|버전 업데이트 중|Kaggle|
+|[Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)|22.11.20. ~ 12.11.|Kaggle|
 |[Bike Sharing Demand](https://www.kaggle.com/competitions/bike-sharing-demand)|22.11.~|Kaggle|
 |[Categorical Feature Encoding Challenge](https://www.kaggle.com/c/cat-in-the-dat)|22.11.~|Kaggle|
 |[Categorical Feature Encoding Challenge II](https://www.kaggle.com/competitions/cat-in-the-dat-ii/code)|22.11.~|Kaggle|
