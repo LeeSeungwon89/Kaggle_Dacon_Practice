@@ -2,7 +2,7 @@
 
 쉬운 문제부터 차근차근 접근해 보는 중입니다.
 
-|대회명|문제유형||풀이기간|플랫폼|
+|대회명|문제유형|풀이기간|플랫폼|
 |:-:|:-:|:-:|:-:|
 |[Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)|이진분류|22.11.20. ~ 12.9.|Kaggle|
 |[Bike Sharing Demand](https://www.kaggle.com/competitions/bike-sharing-demand)|회귀|버전 업데이트 중|Kaggle|
